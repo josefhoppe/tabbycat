@@ -41,6 +41,26 @@
     "USING_NGINX": {
       "description": "Leave this as-is.",
       "value": "1"
+    },
+    "EMAIL_PORT": {
+      "description": "E-Mail provider port. Default 587.",
+      "value": "587"
+    },
+    "EMAIL_USE_TLS": {
+      "description": "Use TLS for E-Mail",
+      "value": "true"
+    },
+    "EMAIL_HOST": {
+      "description": "E-Mail provider host",
+      "value": ""
+    },
+    "EMAIL_HOST_USER": {
+      "description": "E-Mail provider username",
+      "value": ""
+    },
+    "EMAIL_HOST_PASSWORD": {
+      "description": "E-Mail provider password",
+      "value": ""
     }
   },
   "formation": {
