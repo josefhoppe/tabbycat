@@ -28,7 +28,7 @@
     },
     "TIME_ZONE": {
       "description": "The time zone name in the IANA tz database for the tournament's location. Examples: America/Los_Angeles, Europe/Dublin, Africa/Johannesburg. You can look up yours in the 'TZ*' column at http://wikipedia.org/wiki/List_of_tz_database_time_zones#List",
-      "value": "Australia/Melbourne"
+      "value": "Europe/Berlin"
     },
     "DISABLE_COLLECTSTATIC": {
       "description": "Leave this as-is.",
