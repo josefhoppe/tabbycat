@@ -65,6 +65,7 @@
     "DEFAULT_FROM_EMAIL": {
       "description": "default from email",
       "value": ""
+    }
   },
   "formation": {
     "web": {
