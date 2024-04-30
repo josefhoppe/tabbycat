@@ -1,3 +1,5 @@
+Deploy: https://heroku.com/deploy?template=https://github.com/josefhoppe/tabbycat/tree/master
+
 <div align="center">
 
 <img width=200 src="https://raw.githubusercontent.com/TabbycatDebate/tabbycat/develop/tabbycat/static/logo.svg?sanitize=true">
