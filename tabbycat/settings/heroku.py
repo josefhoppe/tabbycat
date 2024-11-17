@@ -77,6 +77,7 @@ CACHES = {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
             # "IGNORE_EXCEPTIONS": True, # Supresses ConnectionError at max
             # "CONNECTION_POOL_KWARGS": {"max_connections": 5} # See above
+            "CONNECTION_POOL_KWARGS": {"ssl_cert_reqs": None}, # See above
             "SOCKET_CONNECT_TIMEOUT": 5,
             "SOCKET_TIMEOUT": 60,
         },
